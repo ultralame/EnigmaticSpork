@@ -10,6 +10,27 @@ angular.module('edify.main', [])
       console.log('ERROR:', status);
     });
 
+
+  // TODO: see #150
+  
+  // $scope.levels = [
+  //   'wat',
+  //   'noob',
+  //   'dabbling',
+  //   'enthusiast',
+  //   'aficionado',
+  //   'master',
+  //   'sorcerer',
+  //   'demigod'
+  // ];
+  //
+  // // $scope.displayLevel = '';
+  //
+  // $scope.levelify = function(numLevel) {
+  //   'debugger'
+  //   return $scope.levels[numLevel];
+  // }
+
   $scope.updateBio = function() {
     var user = {
       blurb: $scope.user.blurb,

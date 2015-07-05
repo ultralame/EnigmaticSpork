@@ -3,3 +3,5 @@ Diamond by Terrage Black
 Database by Dalpat Prajapati
 Cyclomatic Complexity by Richard Slater
 3D Printer by Bryan Allen
+Community by Jessica Lock
+Click by Louis Buck
